@@ -20,7 +20,7 @@ import {
   Users,
   X,
 } from "lucide-react";
-import UploadPage from "./pages/UploadPage";
+import UploadPage from "./pages/Uploadpage.jsx";
 
 const navItems = [
   ["Dashboard", LayoutDashboard],
